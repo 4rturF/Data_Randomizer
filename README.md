@@ -8,4 +8,4 @@ My main goal here is also to make an app for newbies like me to practice data an
 
 KNOWN ISSUES:
 - Constatnly changing class names at carrefour.pl
-- Issue with scraping one page of products
+- Issue with scraping one page of products [Price of the product is separated by space] [Solved]
